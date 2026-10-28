@@ -1,15 +1,15 @@
 # Copyright (C) 2026 HivePress
-# This file is distributed under the same license as the HivePress Claim Listings plugin.
+# This file is distributed under the GPLv3.
 msgid ""
 msgstr ""
-"Project-Id-Version: HivePress Claim Listings 1.1.4\n"
+"Project-Id-Version: HivePress Claim Listings 1.1.5\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hivepress-claim-listings\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-01-30T16:18:32+00:00\n"
+"POT-Creation-Date: 2026-10-28T19:33:49+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: hivepress-claim-listings\n"
@@ -39,41 +39,41 @@ msgid "You've already submitted a claim."
 msgstr ""
 
 #. translators: %s: price.
-#: includes/components/class-listing-claim.php:466
+#: includes/components/class-listing-claim.php:467
 #, php-format
 msgid "Claim for %s"
 msgstr ""
 
-#: includes/configs/post-types.php:21
-#: includes/configs/post-types.php:27
+#: includes/configs/post-types.php:22
+#: includes/configs/post-types.php:28
 #: includes/configs/settings.php:15
 msgid "Claims"
 msgstr ""
 
-#: includes/configs/post-types.php:22
+#: includes/configs/post-types.php:23
 msgid "Claim"
 msgstr ""
 
-#: includes/configs/post-types.php:23
+#: includes/configs/post-types.php:24
 msgctxt "claim"
 msgid "Add New"
 msgstr ""
 
-#: includes/configs/post-types.php:24
-#: includes/configs/post-types.php:26
+#: includes/configs/post-types.php:25
+#: includes/configs/post-types.php:27
 msgid "Add Claim"
 msgstr ""
 
-#: includes/configs/post-types.php:25
+#: includes/configs/post-types.php:26
 msgid "Edit Claim"
 msgstr ""
 
-#: includes/configs/post-types.php:28
+#: includes/configs/post-types.php:29
 msgid "Search Claims"
 msgstr ""
 
-#: includes/configs/post-types.php:29
 #: includes/configs/post-types.php:30
+#: includes/configs/post-types.php:31
 msgid "No claims found."
 msgstr ""
 
@@ -113,12 +113,12 @@ msgstr ""
 msgid "Thank you! Your claim for listing \"%s\" has been approved and you can start managing it."
 msgstr ""
 
-#: includes/controllers/class-listing-claim.php:156
+#: includes/controllers/class-listing-claim.php:157
 #: includes/emails/class-listing-claim-submit.php:30
 msgid "Claim Submitted"
 msgstr ""
 
-#: includes/controllers/class-listing-claim.php:178
+#: includes/controllers/class-listing-claim.php:179
 #: includes/emails/class-listing-claim-approve.php:30
 #: includes/emails/class-listing-claim-approve.php:49
 msgid "Claim Approved"
